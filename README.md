@@ -216,7 +216,8 @@ Through this project, the following cloud concepts were implemented and understo
 ## 👨‍💻 Author
 
 **Gautam Kesharwani**
-
+and 
+**Khush Jain**
 B.Tech Information Technology
 
 Vidyalankar Institute of Technology
